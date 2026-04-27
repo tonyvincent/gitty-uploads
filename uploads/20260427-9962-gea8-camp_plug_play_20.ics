@@ -1,0 +1,150 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tony Vincent//Camp Plug and Play 20.0//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Phoenix
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+UID:1@campplugplay20
+DTSTAMP:20260426T230000Z
+DTSTART;TZID=America/Phoenix:20260602T100000
+DTEND;TZID=America/Phoenix:20260602T113000
+SUMMARY:🌟 Lesson Glow-Ups: Branding with AI
+DESCRIPTION:Turn what you teach into something students want to be part of with punchy lesson titles, catchy slogans, eye-catching visuals, and bold designs. Use AI to quickly generate names, taglines, logos, and graphics that make your units more memorable. No design skills required, just your ideas and a few smart prompts. You’ll leave with ready-to-use examples and a simple process you can start using right away.
+URL:https://sites.google.com/view/camp20/
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2@campplugplay20
+DTSTAMP:20260426T230000Z
+DTSTART;TZID=America/Phoenix:20260602T123000
+DTEND;TZID=America/Phoenix:20260602T140000
+SUMMARY:▶️ Smart Lesson Hooks: Catchy Starters with AI
+DESCRIPTION:The first moments of a lesson can make all the difference. Curiosity, anticipation, relevance, and novelty spark motivation and prepare the brain for learning. This session blends research-based strategies for crafting effective lesson hooks with support from AI chatbots like Gemini and ChatGPT. See examples across grade levels and discover how your expertise, paired with AI, can create engaging and memorable beginnings.
+URL:https://sites.google.com/view/camp20/
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3@campplugplay20
+DTSTAMP:20260426T230000Z
+DTSTART;TZID=America/Phoenix:20260603T100000
+DTEND;TZID=America/Phoenix:20260603T113000
+SUMMARY:🧑‍💻 Vibe Coding: You Describe It, AI Creates It
+DESCRIPTION:Describe an idea. Let AI do the coding. With tools like Gemini, Canva, and ChatGPT, you can create games, timers, and brain breaks for your classroom. Learn how to prompt, tweak, and iterate until your idea actually works.
+URL:https://sites.google.com/view/camp20/
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4@campplugplay20
+DTSTAMP:20260426T230000Z
+DTSTART;TZID=America/Phoenix:20260603T123000
+DTEND;TZID=America/Phoenix:20260603T140000
+SUMMARY:👑 Prints Charming: Preparing Printables with Canva
+DESCRIPTION:There’s something majestic about being able to create, touch, and share printed productions. These kinds of creations can be dreamy for teachers to get instructional materials into the hands of students. Let’s explore swoon-worthy templates for making posters, zines, door hangers, dice, envelopes, and other tangible products in Canva.
+URL:https://sites.google.com/view/camp20/
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5@campplugplay20
+DTSTAMP:20260426T230000Z
+DTSTART;TZID=America/Phoenix:20260604T100000
+DTEND;TZID=America/Phoenix:20260604T113000
+SUMMARY:💬 Build Your Own Chat-Venture: Teacher-Guided AI Activities for Students
+DESCRIPTION:Students get to choose their paths, but their teacher designs the map. See how you can build custom AI chatbots with MagicSchool, Gemini, and Brisk that spark thinking, guide review, and extend understanding. Along the way, gain creative ideas to keep learners engaged and on track.
+URL:https://sites.google.com/view/camp20/
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6@campplugplay20
+DTSTAMP:20260426T230000Z
+DTSTART;TZID=America/Phoenix:20260604T123000
+DTEND;TZID=America/Phoenix:20260604T140000
+SUMMARY:🎟️ Smart Exits: Designing and Analyzing Exit Tickets with AI
+DESCRIPTION:Exit tickets are a quick way to check for understanding, guide next steps, and give every student a voice. This session shows how AI chatbots like Gemini and ChatGPT can help educators craft meaningful exit ticket questions and efficiently analyze student responses. Discover examples across grade levels and see how AI can uncover patterns, highlight misconceptions, and suggest next steps for instruction.
+URL:https://sites.google.com/view/camp20/
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7@campplugplay20
+DTSTAMP:20260426T230000Z
+DTSTART;TZID=America/Phoenix:20260602T143000
+DTEND;TZID=America/Phoenix:20260602T151500
+SUMMARY:🔥 Campfire Chat
+DESCRIPTION:🔥 Campfire Chat
+URL:https://sites.google.com/view/camp20/
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8@campplugplay20
+DTSTAMP:20260426T230000Z
+DTSTART;TZID=America/Phoenix:20260603T143000
+DTEND;TZID=America/Phoenix:20260603T151500
+SUMMARY:🔥 Campfire Chat
+DESCRIPTION:🔥 Campfire Chat
+URL:https://sites.google.com/view/camp20/
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9@campplugplay20
+DTSTAMP:20260426T230000Z
+DTSTART;TZID=America/Phoenix:20260604T143000
+DTEND;TZID=America/Phoenix:20260604T151500
+SUMMARY:🔥 Campfire Chat
+DESCRIPTION:🔥 Campfire Chat
+URL:https://sites.google.com/view/camp20/
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+
+END:VCALENDAR
